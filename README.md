@@ -1,5 +1,5 @@
  👋 Hi, I'm Batman
-- 💻 I'm a developer skilled in JavaScript and Python.
+- 💻 I'm a developer skilled in JavaScript, Python and some times C.
 - ✅ I'm passionate about data analysis and all things software-related.
 - 📗 I have a strong desire to learn and grow my skills even further.
 - 💪 I also enjoy helping others and contributing to the tech community.
