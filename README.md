@@ -5,7 +5,7 @@ Hey there, fellow coder! 🚀 Welcome to the bamboo-fueled coding sanctuary of P
 ## About Me
 
 I'm a code-wielding panda, munching on bamboo while crafting lines of code. My coding journey started 2 years ago, and I've been rolling down the coding hill ever since. 🐾
-
+<!--
 ## Skills
 
 In the vast bamboo forest of data, I navigate with the finesse of a ninja panda, deciphering patterns and munching on insights. My data science skills include:
@@ -14,6 +14,8 @@ In the vast bamboo forest of data, I navigate with the finesse of a ninja panda,
 - **BambooScript:** My programming language of choice (not really, but a panda can dream, right?)
 - **Web DevPanda-lopment:** Building bamboo-tiful websites and applications
 - **Machine Learning (Panda Style):** Training pandas to predict bamboo growth patterns 🌱🐼
+-->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PaNDa2code&hide=contribs,prs&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 ## Projects
 
