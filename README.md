@@ -1,5 +1,10 @@
-# 🐼 PaNDa2Code 🐼
-
+<div align="center">
+   
+![](https://i.giphy.com/Rpl1sod1vCXK0L2SUN.webp)
+<!--![](https://i.pinimg.com/736x/cd/c0/81/cdc0815900e792d5c92c9d7f6d97f313--panda-oso-panda-bears.jpg)-->
+   
+🐼 PaNDa2Code 🐼
+</div>
 Hey there, fellow coder! 🚀 Welcome to the bamboo-fueled coding sanctuary of PaNDa2Code! I'm not just your average developer; I'm a panda on a mission to code my way through the bamboo forest of technology. 🎋
 
 ## About Me
