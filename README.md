@@ -15,7 +15,7 @@ In the vast bamboo forest of data, I navigate with the finesse of a ninja panda,
 - **Web DevPanda-lopment:** Building bamboo-tiful websites and applications
 - **Machine Learning (Panda Style):** Training pandas to predict bamboo growth patterns 🌱🐼
 -->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PaNDa2code&hide=contribs,prs&theme=onedark&layout=compact&exclude_repo=Leetcode&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PaNDa2code&hide=contribs,prs&theme=swift&layout=donut&exclude_repo=Leetcode&show_icons=true&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 ## Projects
 
