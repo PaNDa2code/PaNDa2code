@@ -20,9 +20,8 @@ In the vast bamboo forest of data, I navigate with the finesse of a ninja panda,
 - **Web DevPanda-lopment:** Building bamboo-tiful websites and applications
 - **Machine Learning (Panda Style):** Training pandas to predict bamboo growth patterns 🌱🐼
 -->
-<!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PaNDa2code&hide=contribs,prs&theme=swift&layout=donut&exclude_repo=Leetcode&show_icons=true&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)-->
-
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=panda2code&theme=onedark" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Panda2code&theme=github_dark" alt="Panda's GitHub Stats" width="600"/>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PaNDa2code&hide=contribs,prs&theme=swift&layout=donut&exclude_repo=Leetcode,windows-rust-bindings&show_icons=true&show_owner=true)](https://github.com/anuraghazra/github-readme-stats) <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=panda2code&theme=onedark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Panda2code&theme=github_dark" alt="Panda's GitHub Stats" />
 
 <div>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40">
