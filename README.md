@@ -10,7 +10,7 @@ Hey there, fellow coder! 🚀 Welcome to the bamboo-fueled coding sanctuary of P
 
 ## About Me
 
-I'm a code-wielding panda, munching on bamboo while crafting lines of code. My coding journey started 2 years ago, and I've been rolling down the coding hill ever since. 🐾
+<p> I'm a code-wielding panda, munching on bamboo while crafting lines of code. My coding journey started 2022, and I've been rolling down the coding hill ever since. 🐾</p>
 <!--
 ## Skills
 
@@ -22,7 +22,10 @@ In the vast bamboo forest of data, I navigate with the finesse of a ninja panda,
 - **Machine Learning (Panda Style):** Training pandas to predict bamboo growth patterns 🌱🐼
 -->
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PaNDa2code&hide=contribs,prs&theme=swift&layout=donut&exclude_repo=Leetcode,windows-rust-bindings&show_icons=true&show_owner=true)] (https://github.com/anuraghazra/github-readme-stats) --> 
-![](https://raw.githubusercontent.com/panda2code/github-stats/master/generated/languages.svg#gh-dark-mode-only) <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=panda2code&theme=onedark" />
+
+![](https://raw.githubusercontent.com/panda2code/github-stats/master/generated/languages.svg#gh-dark-mode-only) 
+![](https://raw.githubusercontent.com/panda2code/github-stats/master/generated/stats.svg#gh-dark-mode-only)
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=panda2code&theme=onedark" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Panda2code&theme=github_dark" alt="Panda's GitHub Stats" />
 
 <div>
