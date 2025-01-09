@@ -23,34 +23,14 @@ In the vast bamboo forest of data, I navigate with the finesse of a ninja panda,
 -->
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PaNDa2code&hide=contribs,prs&theme=swift&layout=donut&exclude_repo=Leetcode,windows-rust-bindings&show_icons=true&show_owner=true)] (https://github.com/anuraghazra/github-readme-stats) --> 
 
-<div align="center">
 
-![](https://raw.githubusercontent.com/panda2code/github-stats/master/generated/languages.svg#gh-dark-mode-only) 
-![](https://raw.githubusercontent.com/panda2code/github-stats/master/generated/stats.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/panda2code/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Panda2code&theme=github_dark" width="600" alt="Panda's GitHub Stats" /> 
+<!-- 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=panda2code&theme=onedark" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Panda2code&theme=github_dark" alt="Panda's GitHub Stats" />
-</div>
-
-<!-- <div align="center">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" >
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" width="40" height="40">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" width="40" height="40">
- <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" width="40" height="40">
- <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/pypi/pypi-original.svg" width="40" height="40">
- <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/rust/rust-original.svg" width="40" height="40">
- <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/linux/linux-original.svg" width="40" height="40">
- <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/git/git-original.svg" width="40" height="40"/>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="50" height="50"/>
- <img src="https://github.com/devicons/devicon/raw/master/icons/bash/bash-original.svg" width="40" height="40"/>
- <img src="https://github.com/devicons/devicon/raw/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
- <img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-plain.svg" width="40" height="40"/>
-
-</div> -->
-<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Panda2code&theme=github_dark" alt="Panda's GitHub Stats" /> 
+-->
  
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,zig,rust,neovim,visualstudio,py,nodejs,postgres,git,github,windows,debian,bash)](https://skillicons.dev)
 
-</div>
