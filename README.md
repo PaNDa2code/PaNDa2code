@@ -25,7 +25,7 @@ In the vast bamboo forest of data, I navigate with the finesse of a ninja panda,
 
 
 ![](https://raw.githubusercontent.com/panda2code/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Panda2code&theme=github_dark" width="600" alt="Panda's GitHub Stats" /> 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Panda2code&theme=github_dark" width="500" alt="Panda's GitHub Stats" /> 
 <!-- 
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=panda2code&theme=onedark" />
 
