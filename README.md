@@ -1,9 +1,9 @@
 <div align="center">
 <img src="https://i.imgur.com/zAEJFsK.png" border="0">
-<!-- <h1>🐼 PaNDa2Code 🐼</h1> -->
  
 <img src="https://i.giphy.com/Rpl1sod1vCXK0L2SUN.webp" width="800" height="300"/>
-<!--![](https://i.pinimg.com/736x/cd/c0/81/cdc0815900e792d5c92c9d7f6d97f313--panda-oso-panda-bears.jpg)-->
+
+![](https://i.pinimg.com/736x/cd/c0/81/cdc0815900e792d5c92c9d7f6d97f313--panda-oso-panda-bears.jpg)
    
 </div>
 Hey there, fellow coder! 🚀 Welcome to the bamboo-fueled coding sanctuary of PaNDa2Code! I'm not just your average developer; I'm a panda on a mission to code my way through the bamboo forest of technology. 🎋
@@ -23,12 +23,16 @@ In the vast bamboo forest of data, I navigate with the finesse of a ninja panda,
 -->
 <!--[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=PaNDa2code&hide=contribs,prs&theme=swift&layout=donut&exclude_repo=Leetcode,windows-rust-bindings&show_icons=true&show_owner=true)] (https://github.com/anuraghazra/github-readme-stats) --> 
 
+<div align="center">
+
 ![](https://raw.githubusercontent.com/panda2code/github-stats/master/generated/languages.svg#gh-dark-mode-only) 
 ![](https://raw.githubusercontent.com/panda2code/github-stats/master/generated/stats.svg#gh-dark-mode-only)
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=panda2code&theme=onedark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Panda2code&theme=github_dark" alt="Panda's GitHub Stats" />
 
-<div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Panda2code&theme=github_dark" alt="Panda's GitHub Stats" />
+</div>
+
+<div align="center">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" width="40" height="40">
@@ -45,33 +49,3 @@ In the vast bamboo forest of data, I navigate with the finesse of a ninja panda,
  <img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-plain.svg" width="40" height="40"/>
 
 </div>
-<!--
-## Projects
-
-Check out these bamboo-tastic projects I've been working on:
-
-1. **PandaHub**
-   - Description: A centralized hub for all things panda-related.
-   - GitHub Repository: [Link to the repository]
-
-2. **BambooClassifier**
-   - Description: Using machine learning to classify different types of bamboo.
-   - GitHub Repository: [Link to the repository]
-
-Explore more bamboo-infused creations on [My GitHub Repositories](https://github.com/PaNDa2Code).
-
-## Connect with Me
-
-- **LinkedIn:** [Your LinkedIn Profile]
-- **Twitter:** [Your Twitter Profile]
-- **Bamboo Grove Blog:** [Your Panda-tastic Blog URL]
--->
-Let's join paws and create some coding magic together! 🐼✨ Feel free to reach out if you have any bamboo-related questions or just want to share your favorite coding snack.
-
-## Support
-
-If you find my projects as bamboo-some as I do, don't be shy—give them a bamboo-sized ⭐️! Your support fuels my coding adventures.
-
-## Thank You
-
-Thanks for bamboo-zling by my GitHub profile! 🌿 Let's code, laugh, and have a panda-tastic time in the tech bamboo forest!
