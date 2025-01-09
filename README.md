@@ -32,13 +32,13 @@ In the vast bamboo forest of data, I navigate with the finesse of a ninja panda,
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Panda2code&theme=github_dark" alt="Panda's GitHub Stats" />
 </div>
 
-<div align="center">
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40">
+<!-- <div align="center">
+ <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" height="40" >
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" height="40">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-original.svg" width="40" height="40">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" width="40" height="40">
  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/python/python-original.svg" width="40" height="40">
-<!--  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/pypi/pypi-original.svg" width="40" height="40"> -->
+ <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/pypi/pypi-original.svg" width="40" height="40">
  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/rust/rust-original.svg" width="40" height="40">
  <img src="https://raw.githubusercontent.com/devicons/devicon/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/linux/linux-original.svg" width="40" height="40">
  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
@@ -47,5 +47,10 @@ In the vast bamboo forest of data, I navigate with the finesse of a ninja panda,
  <img src="https://github.com/devicons/devicon/raw/master/icons/bash/bash-original.svg" width="40" height="40"/>
  <img src="https://github.com/devicons/devicon/raw/master/icons/pandas/pandas-original.svg" width="40" height="40"/>
  <img src="https://github.com/devicons/devicon/raw/master/icons/postgresql/postgresql-plain.svg" width="40" height="40"/>
+
+</div> -->
+<div align="center">
+ 
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,zig,rust,neovim,visualstudio,py,nodejs,postgres,git,github,windows,debian,bash)](https://skillicons.dev)
 
 </div>
