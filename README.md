@@ -1,9 +1,9 @@
 <div align="center">
 <img src="https://i.imgur.com/zAEJFsK.png" border="0">
  
-<img src="https://i.giphy.com/Rpl1sod1vCXK0L2SUN.webp" width="800" height="300"/>
+<img src="https://i.giphy.com/Rpl1sod1vCXK0L2SUN.webp" width="800" height="400"/>
 
-![](https://i.pinimg.com/736x/cd/c0/81/cdc0815900e792d5c92c9d7f6d97f313--panda-oso-panda-bears.jpg)
+<!-- ![](https://i.pinimg.com/736x/cd/c0/81/cdc0815900e792d5c92c9d7f6d97f313--panda-oso-panda-bears.jpg) -->
    
 </div>
 Hey there, fellow coder! 🚀 Welcome to the bamboo-fueled coding sanctuary of PaNDa2Code! I'm not just your average developer; I'm a panda on a mission to code my way through the bamboo forest of technology. 🎋
