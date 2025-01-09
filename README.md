@@ -1,7 +1,7 @@
 <div align="center">
 <img src="https://i.imgur.com/zAEJFsK.png" border="0">
  
-<img src="https://i.giphy.com/Rpl1sod1vCXK0L2SUN.webp" width="800" height="400"/>
+<img src="https://i.giphy.com/Rpl1sod1vCXK0L2SUN.webp" width="800" height="250"/>
 
 <!-- ![](https://i.pinimg.com/736x/cd/c0/81/cdc0815900e792d5c92c9d7f6d97f313--panda-oso-panda-bears.jpg) -->
    
