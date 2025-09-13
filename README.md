@@ -6,5 +6,4 @@
 ![](https://raw.githubusercontent.com/panda2code/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/panda2code/github-stats/master/generated/overview.svg#gh-dark-mode-only)
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,zig,rust,neovim,visualstudio,py,nodejs,postgres,git,github,gitlab,windows,debian,bash)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,zig,rust,git,github,gitlab,neovim,visualstudio,py,js,postgres,windows,debian,bash)](https://skillicons.dev)
