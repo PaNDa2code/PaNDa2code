@@ -1,7 +1,7 @@
 <div align="center">
 <img src="panda2code_title.png" border="0">
  
-<img src="coding_bear.webp" width="800" height="350"/>
+<img src="coding_bear.webp" width="700" height="250"/>
 
 ![](https://raw.githubusercontent.com/panda2code/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/panda2code/github-stats/master/generated/overview.svg#gh-dark-mode-only)
